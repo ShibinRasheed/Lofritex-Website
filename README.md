@@ -1,2 +1,2 @@
-#Lofritex
-###Your loyal friendly tech expert
+# Lofritex 
+### Your loyal friendly tech expert
